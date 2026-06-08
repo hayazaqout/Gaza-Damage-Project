@@ -17,3 +17,5 @@ This project aims to detect and assess damaged buildings in Al-Shati Refugee Cam
 
 ## Status
 Project started - Data collection phase
+## data set 
+https://www.kaggle.com/datasets/abdoomoh/gaza-before-and-after-2

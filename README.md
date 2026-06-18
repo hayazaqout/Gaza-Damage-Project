@@ -1,10 +1,10 @@
- # 🛰️ Gaza Damage Assessment System Using Deep Learning
+ #   Gaza Damage Assessment System Using Deep Learning
 
 A deep learning framework for assessing building damage in Al-Shati Camp, Gaza, using satellite imagery captured before and after the conflict.
 
 ---
 
-## 📌 Project Overview
+##   Project Overview
 
 This project aims to automatically detect buildings and estimate damage levels using satellite images taken before and after the war in Gaza.
 
@@ -12,7 +12,7 @@ The proposed system focuses on **Al-Shati Camp**, combining satellite imagery an
 
 ---
 
-## 🎯 Project Objectives
+##   Project Objectives
 
 The main objectives of this project are:
 
@@ -23,7 +23,7 @@ The main objectives of this project are:
 
 ---
 
-## 🗺️ Study Area
+##   Study Area
 
 The study focuses on:
 
@@ -33,7 +33,7 @@ Satellite images belonging to this area were extracted and analyzed throughout t
 
 ---
 
-## 📂 Dataset
+##   Dataset
 
 ### Satellite Images
 
@@ -57,7 +57,7 @@ These footprints were used to generate building masks for training the building 
 
 ---
 
-# ⚙️ System Architecture
+#   System Architecture
 
 The proposed system consists of three main stages.
 
@@ -374,7 +374,7 @@ Red → Damage
 
 ---
 
-# 📁 Project Structure
+#   Project Structure
 
 ```
 Project
@@ -409,7 +409,7 @@ Project
 
 ---
 
-# 🚧 Limitations
+#   Limitations
 
 This work has several limitations:
 
@@ -420,7 +420,7 @@ This work has several limitations:
 
 ---
 
-# 🚀 Future Work
+#   Future Work
 
 Potential improvements include:
 
@@ -432,7 +432,7 @@ Potential improvements include:
 
 ---
 
-# 👩‍💻 Author
+#   Author
 
 Developed as an academic deep learning project for satellite-based damage assessment.
 

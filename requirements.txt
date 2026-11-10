@@ -1,0 +1,13 @@
+torch>=2.0
+numpy
+scipy
+scikit-learn
+pillow
+geopandas>=1.0
+pyogrio
+shapely
+pyproj
+rasterio
+osmnx
+matplotlib
+pytest
